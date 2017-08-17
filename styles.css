@@ -1,7 +1,8 @@
 h1 {
   text-align: center;
-  font-size:50px;
-color:	#03396c;
+  font-size:30px;
+color:
+#838996;
 font-family:  'Carme', sans-serif;
 padding-top: 30px;
  padding-right: 30px;
@@ -18,13 +19,20 @@ font-family: 'Inconsolata', monospace;;
 
 p {
   text-align: center;
-  font-size:30px;
-  color:	##2196f3 ;
+  font-size:20px;
+  color:	#003366 ;
   font-family: 'Inconsolata', monospace;
 }
 h2 {
   text-align: center;
-  font-size:50px;
+  font-size:30px;
 color:		#03396c;
 font-family:  'Carme', sans-serif;
+}
+
+h4 {
+  text-align: center;
+  font-size:17px;
+  color:	#003366 ;
+  font-family: 'Inconsolata', monospace;
 }
